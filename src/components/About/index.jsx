@@ -75,10 +75,10 @@ const About = () => {
           </div>
 
           <p className="text__muted description">
-            Lorem ipsum dolor sit, amet consectetur adipiscing elt. 
-            Quae dicta natus corporis. Aspernatur, adipisci dolorem culpa provident 
-            nemo quo dolores ipsum eaque commodi quasi, ad modi nisi
-             prasentium pariatur eius.
+           At GSMR, we offer a wide range of high-quality pharmaceutical products designed to support health and well-being.
+            From prescription medications to over-the-counter solutions, our products are manufactured following strict safety
+             and quality standards to ensure effectiveness and reliability. We are committed to providing safe, trusted, and 
+             accessible healthcare solutions for our customers.
           </p>
              <div className="group">
 
