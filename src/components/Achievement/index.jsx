@@ -39,7 +39,7 @@ const Achievement = () => {
         },{scope:container})
     
   return (
-    <div className='achievment__container' ref={container}>
+    <div className='achievement__container' ref={container}>
         {/*Start Achievement */}
         <div className="achievement">
             <div className="icon__container">

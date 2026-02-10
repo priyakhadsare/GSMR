@@ -12,7 +12,7 @@ const Teams = () => {
   const container = useRef(null)
   useGSAP(()=>{
     const timeline = gsap.timeline({
-      delay:.5,
+      delay:.3,
       scrollTrigger:{
         trigger:container.current,
         start:"20% bottom",
@@ -31,7 +31,7 @@ const Teams = () => {
     )
     .fromTo(
       ".team__card",
-      {x:100,opacity:0,},
+      {x:50,opacity:0,},
       {opacity:1,stagger:.5,y:0}
     )
     

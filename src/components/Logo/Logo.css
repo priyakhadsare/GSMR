@@ -1,14 +1,31 @@
-.logo{
-    display: flex;
-    align-items: center;
-    gap: 5px;
-
-
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
-.logo .icon__container,
-.logo.name{
-    font-size: 1.5rem;
-    color: var(--color-primary);
-    font-weight: 600;
-    
+
+.icon__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 120px;
+}
+
+.logo__image {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: 700;
+  color: #222;
+  margin: 0;
+  line-height: 1;
+}
+
+.name span {
+  color: #ff7a00; /* highlight color */
 }

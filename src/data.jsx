@@ -71,7 +71,7 @@ export const services = [
 
 export const teams = [
   {
-    name:"Oluoma James",
+    name:"Mrunal Deshpande",
     title:"Technician",
     profile:member1,
     social:[
@@ -82,7 +82,7 @@ export const teams = [
     ]
   },
   {
-    name:"Mary Brown",
+    name:"Kiran Rao",
     title:"Technician",
     profile:member2,
     social:[
@@ -93,7 +93,7 @@ export const teams = [
     ]
   },
   {
-    name:"Lawrence Onu",
+    name:"Krishna Shukla",
     title:"Technician",
     profile:member3,
     social:[
@@ -104,7 +104,7 @@ export const teams = [
     ]
   },
   {
-    name:"Joy Eze",
+    name:"Sam Dixit",
     title:"Technician",
     profile:member4,
     social:[
@@ -162,31 +162,33 @@ export const projects = [
 export const testimonial = [
   {
     image:profile2,
-    name:'Samuel Eze',
-    review:` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-           veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea veniam, quis nostrud exercitation ullamco laborisveniam, quis nostrud exercitation ullamco laboris`
+    name:'Dr.Ananya Rao',
+    review:` The pharmaceutical solutions provided exceeded our expectations. 
+    Their strict adherence to regulatory standards, accurate documentation, 
+    and on-time delivery helped us streamline our clinical operations efficiently.`
   },
   {
     image:profile3,
-    name:'Emmanuel Joseph',
-    review:` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-           veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea`
+    name:'Mr. Rajesh Kumar',
+    review:` We were highly impressed with the quality assurance and compliance support. 
+    Their team demonstrated deep knowledge of GMP guidelines and ensured flawless execution 
+    throughout our manufacturing process.`
   },
   {
     image:profile4,
-    name:'Gloria Chiwendu',
-    review:` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-           veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea veniam, quis nostrud exercitation ullamco laborisveniam, quis nostrud exercitation ullamco laborisveniam, quis nostrud exercitation ullamco laboris`
+    name:'Ms. Priya Nair',
+    review:`From formulation development to regulatory submission, 
+    the service quality was exceptional. 
+    Their attention to detail and commitment to 
+    patient safety truly sets them apart in the pharmaceutical industry. `
   },
   {
     image:profile5,
     name:'Precious Stone',
-    review:` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-           veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea`
+    review:`Their expertise in pharmaceutical 
+    research and development played a crucial role in 
+    accelerating our product approval. Professional communication 
+    and scientific accuracy were maintained at every stage. `
   }
 
 ];
